@@ -1,7 +1,7 @@
-# Mongodb-with-python   
+# MongoDB-with-python   
 
 
-### Mongodb download.    
+### MongoDB download.    
 
 Install in macos(M1)
 
@@ -28,7 +28,7 @@ pip install pymongo
 ```
 
 
-If you wan to Mongo DB As A Service??     
+If you wan to MongoDB as a service??     
 Use MongoDB ATLAS!!    
 
 And you want mongodb gui? install [mongoDB compass](https://www.mongodb.com/try/download/compass)
