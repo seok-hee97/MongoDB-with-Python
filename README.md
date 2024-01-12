@@ -3,7 +3,7 @@
 
 ### Mongodb download.    
 
-Isntall in macos(M1)
+Install in macos(M1)
 
 To install the MongoDB locally your PC first open terminal window.    
 
